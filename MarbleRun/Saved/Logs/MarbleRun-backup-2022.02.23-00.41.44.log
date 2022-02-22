@@ -1,0 +1,340 @@
+﻿Log file open, 02/20/22 15:15:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MarbleRun
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.684634
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.307s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.128s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2022.02.20-12.15.27:790][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.20-12.15.27:790][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.20-12.15.27:973][  0]LogHAL: Display: Platform has ~ 12 GB [12752048128 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.20-12.15.27:973][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2022.02.20-12.15.27:973][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.20-12.15.27:979][  0]LogInit: Computer: DESKTOP-KK6SCM5
+[2022.02.20-12.15.27:979][  0]LogInit: User: Walrus
+[2022.02.20-12.15.27:979][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.02.20-12.15.27:979][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.20-12.15.27:980][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2022.02.20-12.15.27:980][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.20-12.15.27:980][  0]LogMemory: Process Physical Memory: 106.65 MB used, 106.65 MB peak
+[2022.02.20-12.15.27:980][  0]LogMemory: Process Virtual Memory: 90.13 MB used, 90.13 MB peak
+[2022.02.20-12.15.27:980][  0]LogMemory: Physical Memory: 8278.79 MB used,  3882.51 MB free, 12161.30 MB total
+[2022.02.20-12.15.27:980][  0]LogMemory: Virtual Memory: 4667.42 MB used,  3882.51 MB free, 134217728.00 MB total
+[2022.02.20-12.15.28:148][  0]LogInit: Using OS detected language (ru-RU).
+[2022.02.20-12.15.28:148][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.02.20-12.15.28:150][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.02.20-12.15.28:180][  0]LogStreaming: Display: Took  0.033s to InitEngineTextLocalization.
+[2022.02.20-12.15.28:181][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.20-12.15.28:273][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.20-12.15.28:273][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.20-12.15.31:020][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.20-12.15.31:020][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.20-12.15.31:294][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2022.02.20-12.15.31:294][  0]LogD3D11RHI:       4019/0/6080 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.02.20-12.15.31:329][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.02.20-12.15.31:329][  0]LogD3D11RHI:       128/0/6080 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.02.20-12.15.31:332][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.20-12.15.31:332][  0]LogD3D11RHI:       0/0/6080 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.20-12.15.31:332][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.02.20-12.15.31:337][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.20-12.15.31:337][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2022.02.20-12.15.31:337][  0]LogWindows: EnumDisplayDevices:
+[2022.02.20-12.15.31:338][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.02.20-12.15.31:338][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.02.20-12.15.31:338][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.02.20-12.15.31:338][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:1)
+[2022.02.20-12.15.31:339][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2022.02.20-12.15.31:339][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2022.02.20-12.15.31:339][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2022.02.20-12.15.31:340][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.02.20-12.15.31:340][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2022.02.20-12.15.31:340][  0]LogD3D11RHI:   Driver Version: 457.49 (internal:27.21.14.5749, unified:457.49)
+[2022.02.20-12.15.31:340][  0]LogD3D11RHI:      Driver Date: 11-20-2020
+[2022.02.20-12.15.31:340][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2022.02.20-12.15.31:410][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.20-12.15.31:422][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.20-12.15.31:426][  0]LogShaderCompilers: Guid format shader working directory is 19 characters bigger than the processId version (G:/unreal_studies/MarbleRun/Intermediate/Shaders/WorkingDirectory/19432/).
+[2022.02.20-12.15.31:426][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Walrus/AppData/Local/Temp/UnrealShaderWorkingDir/1F1B98F3400BE0125DB12FBAE2672D48/'.
+[2022.02.20-12.15.31:875][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2022.02.20-12.15.31:903][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2022.02.20-12.15.31:931][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2022.02.20-12.15.31:968][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2022.02.20-12.15.32:022][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2022.02.20-12.15.32:062][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2022.02.20-12.15.32:108][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2022.02.20-12.15.32:152][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2022.02.20-12.15.32:182][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2022.02.20-12.15.32:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.02.20-12.15.32:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.02.20-12.15.32:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.02.20-12.15.32:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.02.20-12.15.32:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.02.20-12.15.32:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.02.20-12.15.32:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.02.20-12.15.32:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.02.20-12.15.32:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.02.20-12.15.32:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.02.20-12.15.32:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.02.20-12.15.32:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.02.20-12.15.32:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.02.20-12.15.32:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.02.20-12.15.32:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.02.20-12.15.32:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.02.20-12.15.32:307][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.02.20-12.15.32:308][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.02.20-12.15.32:326][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2022.02.20-12.15.32:465][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.02.20-12.15.32:465][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.02.20-12.15.32:507][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.02.20-12.15.32:507][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.02.20-12.15.32:538][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2022.02.20-12.15.32:565][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2022.02.20-12.15.32:596][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2022.02.20-12.15.32:639][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2022.02.20-12.15.32:671][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2022.02.20-12.15.32:671][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.20-12.15.33:284][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.02.20-12.15.33:284][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.20-12.15.33:284][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.20-12.15.36:123][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.20-12.15.36:308][  0]LogDerivedDataCache: Loaded boot cache 0.18s 71MB C:/Users/Walrus/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2022.02.20-12.15.36:308][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Walrus/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2022.02.20-12.15.36:309][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/unreal_studies/MarbleRun/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.20-12.15.36:309][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.20-12.15.36:309][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/unreal_studies/MarbleRun/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.20-12.15.36:309][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.20-12.15.36:337][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.20-12.15.36:350][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Walrus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.20-12.15.36:350][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.20-12.15.36:350][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.20-12.15.36:369][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.02.20-12.15.36:371][  0]LogSlate: Using FreeType 2.6.0
+[2022.02.20-12.15.36:385][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.20-12.15.36:540][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2022.02.20-12.15.37:025][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.20-12.15.37:557][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2022.02.20-12.15.37:621][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2022.02.20-12.15.37:621][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.20-12.15.37:621][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.20-12.15.37:621][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2022.02.20-12.15.37:687][  0]LogNetVersion: MarbleRun 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2968469525)
+[2022.02.20-12.15.39:294][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.171292 seconds
+[2022.02.20-12.15.39:304][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2022.02.20-12.15.39:304][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2022.02.20-12.15.39:304][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.20-12.15.42:020][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.20-12.15.42:059][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.20-12.15.42:059][  0]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1
+[2022.02.20-12.15.42:059][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.02.20-12.15.42:059][  0]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.02.20-12.15.42:542][  0]SourceControl: Source control is disabled
+[2022.02.20-12.15.42:542][  0]SourceControl: Source control is disabled
+[2022.02.20-12.15.42:566][  0]SourceControl: Source control is disabled
+[2022.02.20-12.15.42:585][  0]SourceControl: Source control is disabled
+[2022.02.20-12.15.43:543][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.20-12.15.43:771][  0]LogOcInput: OculusInput pre-init called
+[2022.02.20-12.15.43:942][  0]LogEngine: Initializing Engine...
+[2022.02.20-12.15.43:943][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.20-12.15.43:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2022.02.20-12.15.43:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.02.20-12.15.43:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2022.02.20-12.15.43:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.02.20-12.15.44:341][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.20-12.15.44:373][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.20-12.15.44:400][  0]LogInit: XAudio2 using 'Динамики (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2022.02.20-12.15.44:416][  0]LogInit: FAudioDevice initialized.
+[2022.02.20-12.15.44:416][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.20-12.15.44:456][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/Walrus/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2022.02.20-12.15.44:463][  0]LogInit: Texture streaming: Enabled
+[2022.02.20-12.15.44:542][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.20-12.15.44:580][  0]LogInit: Transaction tracking system initialized
+[2022.02.20-12.15.44:684][  0]BlueprintLog: New page: Editor Load
+[2022.02.20-12.15.45:143][  0]LocalizationService: Localization service is disabled
+[2022.02.20-12.15.46:051][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.02.20-12.15.46:051][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.20-12.15.46:052][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2022.02.20-12.15.46:052][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2022.02.20-12.15.46:052][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.02.20-12.15.46:052][  0]LogFileCache: Scanning file cache for directory 'G:/unreal_studies/MarbleRun/Content/' took 0.02s
+[2022.02.20-12.15.46:052][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2022.02.20-12.15.46:052][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.02.20-12.15.46:787][  0]SourceControl: Source control is disabled
+[2022.02.20-12.15.46:787][  0]Cmd: MAP LOAD FILE="G:/unreal_studies/MarbleRun/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.20-12.15.46:787][  0]LightingResults: New page: Lighting Build
+[2022.02.20-12.15.46:790][  0]MapCheck: New page: Map Check
+[2022.02.20-12.15.46:790][  0]LightingResults: New page: Lighting Build
+[2022.02.20-12.15.48:810][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.02.20-12.15.48:833][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2022.02.20-12.15.48:833][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Props/SM_Statue.SM_Statue] ScaledElem[0] invalid
+[2022.02.20-12.15.48:836][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.20-12.15.48:862][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.20-12.15.48:944][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81,059ms to complete.
+[2022.02.20-12.15.48:944][  0]LogFileHelpers: Loading map 'Minimal_Default' took 2.158
+[2022.02.20-12.15.49:115][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.20-12.15.49:125][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.20-12.15.49:137][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.20-12.15.49:149][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.20-12.15.49:228][  0]LogSlate: Took 0.007928 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.20-12.15.49:248][  0]LogSlate: Took 0.011360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.20-12.15.49:383][  0]LogRenderer: Reallocating scene render targets to support 1024x712 Format 10 NumSamples 1 (Frame:1).
+[2022.02.20-12.15.49:745][  0]LogLoad: (Engine Initialization) Total time: 29.18 seconds
+[2022.02.20-12.15.49:745][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.20-12.15.49:792][  0]LogAssetRegistry: Asset discovery search completed in 13.2746 seconds
+[2022.02.20-12.15.49:821][  0]LogCollectionManager: Loaded 0 collections in 0.001953 seconds
+[2022.02.20-12.15.49:845][  0]LogFileCache: Scanning file cache for directory 'G:/unreal_studies/MarbleRun/Saved/Collections/' took 0.01s
+[2022.02.20-12.15.49:845][  0]LogFileCache: Scanning file cache for directory 'G:/unreal_studies/MarbleRun/Content/Developers/Walrus/Collections/' took 0.01s
+[2022.02.20-12.15.49:845][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2022.02.20-12.15.49:845][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000105 seconds (updated 0 objects)
+[2022.02.20-12.15.49:848][  0]LogFileCache: Scanning file cache for directory 'G:/unreal_studies/MarbleRun/Content/Collections/' took 0.00s
+[2022.02.20-12.15.49:848][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.21-07.29.00:813][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.02.21-07.29.00:956][220]LogSlate: Window 'MarbleRun - Unreal Editor' being destroyed
+[2022.02.21-07.29.01:536][221]Cmd: QUIT_EDITOR
+[2022.02.21-07.29.01:561][221]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.02.21-07.29.01:569][221]LogExit: Preparing to exit.
